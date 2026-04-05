@@ -17,6 +17,16 @@ This project explores UK housing prices using geospatial data analysis and inter
 - Matplotlib
 - Streamlit
 
+## 🌍 Live Demo
+
+👉 [Click here to view the live dashboard](https://uk-housing-geospatial-analysis-4vxdgketwghn2j6ypuzure.streamlit.app/)
+
+---
+
+## 📸 App Preview
+
+![Dashboard Preview](https://via.placeholder.com/800x400.png?text=UK+Housing+Dashboard)
+
 ## ▶️ Run the App
 
 ```bash
